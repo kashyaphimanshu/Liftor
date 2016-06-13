@@ -1,4 +1,5 @@
 # Liftor
+# This program stops the lift on alternate floors
 #the following code is executed on BlueJ
 import java.io.*;
 class liftor
